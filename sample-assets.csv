@@ -1,0 +1,5 @@
+case_reference,asset_description,valuation_date,currency,amount
+"Estate of J. Smith - Case No. 2024-PRB-042","Barclays Current Account, London Branch","2023-11-11","GBP","125000"
+"Estate of J. Smith - Case No. 2024-PRB-042","Tokyo Savings Account - MUFG Bank","2023-11-11","JPY","8500000"
+"Estate of M. Chen - Case No. 2024-PRB-089","HSBC Hong Kong Savings Account","2024-03-15","HKD","2200000"
+"Estate of M. Chen - Case No. 2024-PRB-089","Deutsche Bank Frankfurt Account","2024-03-15","EUR","95000"

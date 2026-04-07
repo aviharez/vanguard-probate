@@ -48,6 +48,7 @@ public class CliOptions {
                 }
                 case "--format", "-f" -> {
                     if (i + 1 >= args.length) throw new IllegalArgumentException("--format requires a value (txt, pdf, both).");
+                    format = OutputConfig.Format.fromFlag(args[++i]);
                 }
                 default -> throw new IllegalArgumentException("Unknown argument: " + args[i]);
             }
